@@ -87,7 +87,7 @@ public class RunTests {
             }
         } else {
             //run normally
-            CityStart.main(args); //TODO change this to be your entry class
+            CityStart.main(args);
         }
 
     }
