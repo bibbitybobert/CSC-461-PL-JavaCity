@@ -15,8 +15,7 @@
 
 Choice:> [34;1m1[0m
  Input tile type 1) greenspace 2) water 3) road 4) building 5) empty:> [34;1m1[0m
- 
-input location (x y): 
+ input location (x y): 
 [30m░[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m
 [30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m
 [30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m
@@ -34,8 +33,7 @@ input location (x y):
 
 Choice:> [34;1m0 0[0m
  Input tile type 1) greenspace 2) water 3) road 4) building 5) empty:> [34;1m1[0m
- 
-input location (x y): 
+ input location (x y): 
 [30m~[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m
 [30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m
 [30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m
@@ -53,8 +51,7 @@ input location (x y):
 
 Choice:> [34;1m2[0m
  Input tile type 1) greenspace 2) water 3) road 4) building 5) empty:> [34;1m0 0[0m
- 
-input location (x y): 
+ input location (x y): 
 [30m━[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m
 [30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m
 [30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m
@@ -72,8 +69,7 @@ input location (x y):
 
 Choice:> [34;1m1[0m
  Input tile type 1) greenspace 2) water 3) road 4) building 5) empty:> [34;1m3[0m
- 
-input location (x y): 
+ input location (x y): 
 [30m⌂[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m
 [30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m
 [30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m
@@ -91,8 +87,7 @@ input location (x y):
 
 Choice:> [34;1m0 0[0m
  Input tile type 1) greenspace 2) water 3) road 4) building 5) empty:> [34;1m1[0m
- 
-input location (x y): 
+ input location (x y): 
 [30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m
 [30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m
 [30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m[30m▫[0m
